@@ -1,0 +1,24 @@
+.google-apps{
+display: inline-block;
+flex-direction: row;
+}
+.google{
+  border: 5px solid yellow;
+  width: 120px;
+  height: 150px;
+}
+.youtube{
+  border:5px solid red;
+  width: 120px;
+  height: 150px;
+}
+.google-maps{
+  border:5px solid blue;
+  width: 130px;
+  height:170px;
+}
+.GMAIL{
+  border:5px solid green;
+  width: 130px;
+  height:170px;
+}
